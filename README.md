@@ -1,6 +1,6 @@
 # tokenize Website Service
 
-This repository contains the code for an NFT minting service using Node.js, Express, Thirdweb SDK, and Lighthouse Web3 SDK. The service downloads an image, uploads it to IPFS via Lighthouse, and mints an NFT with the uploaded image and metadata.
+This repository contains the code for tokenizing an IPFS website into an NFT using Node.js, Express, Thirdweb SDK, and Lighthouse Web3 SDK. The service downloads an image, uploads it to IPFS via Lighthouse, and mints an NFT with the uploaded image and metadata.
 
 ## Prerequisites
 
